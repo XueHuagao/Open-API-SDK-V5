@@ -21,9 +21,9 @@ public class AccountAPIBaseTests extends BaseTests {
         config.setDomain("https://www.okx.com");
 
 
-        config.setApiKey("");
-        config.setSecretKey("");
-        config.setPassphrase("");
+        config.setApiKey("a77e8817-a4a4-47a7-bf80-d62d37f6689d");
+        config.setSecretKey("D1B917FEEFDA3ACD05AFF68005FA5ABD");
+        config.setPassphrase("Xnmbyy+1s");
 
         //请求模拟盘的接口需要传入1，否则传入0
         //if you want to request the endpoint in demo trading,please input 1,otherwise,please input 0
